@@ -1,2 +1,2 @@
-# Wordpress-Workshop
- Softuni Wordpress fore Developers Course Workshop
+# wordpress-workshop
+Wordpress workshop from Softuni
